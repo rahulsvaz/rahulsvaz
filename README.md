@@ -15,16 +15,10 @@ Hi 👋, I'm Rahul P  ,  a Passionate Flutter Developer<br><br>⚡ I believe tha
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rahulsvaz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rahulsvaz&limit=5&theme=darkhub&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=rahulsvaz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
