@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi 👋, I'm Rahul P  ,  a Passionate Flutter Developer<br><br>⚡ I believe that every line of code has a story, and the best software tells the most compelling tales.<br>
+#                                                                       Hi 👋, I'm Rahul P  
+ a Passionate Flutter Developer<br><br>⚡ I believe that every line of code has a story, and the best software tells the most compelling tales.<br>
 
 
 ## 🌐 Socials:
